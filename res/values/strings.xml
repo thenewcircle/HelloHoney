@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HelloActivity!</string>
+    <string name="app_name">Hello, Honey!</string>
+    <string name="html">&lt;object width=&quot;120&quot; height=&quot;73&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/watch?v=ZVYIBIlTIQs&amp;feature=youtube_gdata&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;/param&gt;&lt;embed src=&quot;http://www.youtube.com/watch?v=ZVYIBIlTIQs&amp;feature=youtube_gdata&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;120&quot; height=&quot;73&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+</string>
+</resources>
